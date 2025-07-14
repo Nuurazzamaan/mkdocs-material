@@ -7,21 +7,21 @@
     "documentation",
     "theme"
   ],
-  "homepage": "https://squidfunk.github.io/mkdocs-material/",
+  "homepage": "https://Nuurazzamaan.github.io/mkdocs-material/",
   "bugs": {
-    "url": "https://github.com/squidfunk/mkdocs-material/issues",
-    "email": "martin.donath@squidfunk.com"
+    "url": "https://github.com/Nuurazzamaan/mkdocs-material/issues",
+    "email": "nurazamanmohamed541@gmail.com."
   },
   "license": "MIT",
   "private": true,
   "author": {
-    "name": "Martin Donath",
-    "email": "martin.donath@squidfunk.com"
+    "name": "Nuurazzamaan",
+    "email": "nurazamanmohamed541@gmail.com"
   },
   "contributors": [],
-  "repository": {
+  "repository":  Nuurazzamaan 
     "type": "git",
-    "url": "https://github.com/squidfunk/mkdocs-material.git"
+    "url": "https://github.com/Nuurazzamaan/mkdocs-material.git"
   },
   "scripts": {
     "build": "rimraf material && ts-node -T tools/build --optimize",
@@ -49,6 +49,8 @@
     "lunr": "^2.3.9",
     "lunr-languages": "^1.14.0",
     "rxjs": "^7.8.2"
+
+    
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
