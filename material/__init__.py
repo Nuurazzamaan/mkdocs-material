@@ -6,12 +6,13 @@ from telegram.ext import Dispatcher, CommandHandler, MessageHandler, Filters
 
 # Telegram Bot Token
 TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-bot = Bot(token=TELEGRAM_TOKEN)6858738346:AAGK3Go9b0SbNYKBObIS9zljVTIU5aBE5XI
+bot = Bot(token=TELEGRAM_TOKEN)6858738346:
 
 # Chapa API Key
 CHAPA_API_KEY = "YOUR_CHAPA_SECRET_KEY"CHAPUBK_TEST-xfd4WrSjA8laIRkpGSdWn0mS4HD0TIp1
 
-CHAPA_URL = "https://api.chapa.co/v1/transaction/initialize"Nuurazzamaan_340  nurazamanamohamed541@gmail.com 
+CHAPA_URL = "https://api.chapa.co/v1/transaction/initialize"Nurezeman Mohammed 
+nurazamanamohamed541@gmail.com 
 
 # Flask App Nuurazzamaan_340
 app = Flask(__name__)
@@ -25,15 +26,18 @@ def start(update, context):
 def pay(update, context):
     chat_id = update.message.chat_id
     amount = 100  # ETB (Ethiopian Birr)
-    email = "customer@example.com"
+    email = "nurezman mohamed541@gmail.com
 
     data = {
         "amount": str(amount),75000
+
+        telebirr 0936186805
+        
         "currency": "ETB",
         "email": email,nurazamanamohamed541@gmail.com 
         "tx_ref": f"tx-{chat_id}",Nuurazzamaan_340
-        "callback_url": "https://yourdomain.com/callback",
-        "return_url":Nuurazzamaan_340 "https://yourdomain.com/success"
+        "callback_url": "https://Nurezeman mohammed.com",
+        "return_url":Nuurazzamaan_340 "https://Nurezeman Mohammed 
     }
 
     headers = {
