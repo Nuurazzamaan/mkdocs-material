@@ -11,3 +11,7 @@
   [mkdocs.plugins]: https://www.mkdocs.org/user-guide/configuration/#plugins
   [mkdocs.strict]: https://www.mkdocs.org/user-guide/configuration/#strict
   [mkdocs.use_directory_urls]: https://www.mkdocs.org/user-guide/configuration/#use_directory_urls
+
+ssh-keygen -t ed25519 -C "nurazamanmohamed541@email.com"'
+
+cat ~/.ssh/id_ed25519.pub
